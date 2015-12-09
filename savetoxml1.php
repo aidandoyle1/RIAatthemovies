@@ -95,7 +95,7 @@
   $doc->createTextNode( $freview ) 
   );
   
-  $b->appendChild( $reviwe ); 
+  $b->appendChild( $review ); 
    
   $r->appendChild( $b ); 
   

@@ -10,7 +10,7 @@
     <meta name="author" content="">
 
     <title>Contact - Start Bootstrap Theme</title>
-A
+
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -72,7 +72,9 @@ A
 
     <div class="container">
 
-     
+
+        <!-- Shows the four headings of the form as well as well as requiring the user to enter into the fields
+        before the form can be submitted--> 
 
         <div class="row">
             <div class="box">
@@ -83,7 +85,7 @@ A
                     </h2>
                     <hr>
                     <p>If you would like to review a movie you have seen, fill in the form below and sumit a review. We look forward to reading it. </p>
-                    <form name="contactForm" action="savetoxml.php" role="form" method="post" onsubmit="return validateForm()">
+                    <form name="contact_form" action="savetoxml.php" role="form" method="post" onsubmit="return validateForm()">
                         <div class="row">
                             <div class="form-group col-lg-4">
                                 <label>Name</label>
@@ -102,6 +104,7 @@ A
                                 <label>Review</label>
                                 <textarea class="form-control" rows="6" placeholder="Write your review here" id="review" required data-validation-required-message="Please enter your review."></textarea>
                             </div>
+                            <!-- button-->
                             <div class="form-group col-lg-12">
                                 <input type="hidden" name="save" value="contact">
                                 <button type="submit" class="btn btn-default">Submit</button>
@@ -113,7 +116,7 @@ A
         </div>
 
     </div>
-    <!-- /.container -->
+    <!-- /.contains the copyright  -->
 
     <footer>
         <div class="container">
