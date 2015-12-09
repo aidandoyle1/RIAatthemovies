@@ -10,7 +10,7 @@
     <meta name="author" content="">
 
     <title>Contact - Start Bootstrap Theme</title>
-
+A
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -83,7 +83,7 @@
                     </h2>
                     <hr>
                     <p>If you would like to review a movie you have seen, fill in the form below and sumit a review. We look forward to reading it. </p>
-                    <form role="form">
+                    <form name="contactForm" action="savetoxml.php" role="form" method="post" onsubmit="return validateForm()">
                         <div class="row">
                             <div class="form-group col-lg-4">
                                 <label>Name</label>
