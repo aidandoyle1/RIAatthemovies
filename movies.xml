@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="movies.xsl" type="text/xsl"?>
+<movies>
+    <film>
+		<title>Spectre</title>
+		<genre>Action</genre>
+		<date>October 2015</date>
+        <rating>7</rating>
+    </film>
+    <film>
+		<title>Jurassic World</title>
+		<genre>Adventure</genre>
+		<date>May 2015</date>
+		<rating>7.5</rating>
+    </film>
+    <film>
+		<title>Black Mass</title>
+		<genre>Drama(Crime)</genre>
+		<date>September 2015</date>
+		<rating>7.5</rating>
+    </film>
+    <film>
+		<title>The Martain</title>
+		<genre>Science Fiction</genre>
+		<date>September 2015</date>
+		<rating>9</rating>
+    </film>
+    <film>
+		<title>Krampus</title>
+		<genre>Horror, Fantasy</genre>
+		<date>Dec 2015</date>
+	    <rating>8</rating>
+    </film>
+    <film>
+		<title>Mad Max</title>
+		<genre>Action</genre>
+		<date>May 2015</date>
+		<rating>9.5</rating>
+    </film>
+    <film>
+		<title>Star Wars</title>
+		<genre>Science Fiction</genre>
+		<date>December 2015</date>
+        <rating>8</rating>
+    </film>
+    <film>
+		<title>The Hunger Games</title>
+		<genre>Science Fiction</genre>
+		<date>November 2015</date>
+		<rating>8</rating>
+    </film>
+    <film>
+		<title>Spy</title>
+		<genre>Comedy</genre>
+		<date>June 2015</date>
+		<rating>7.5</rating>
+    </film>
+    <film>
+		<title>Straight Outta Compton</title>
+		<genre>Drama(Bio)</genre>
+		<date>August 2015</date>
+>       <rating>9.5</rating>
+    </film>
+    <film>
+		<title>The Revenant</title>
+		<genre>Adventure</genre>
+		<date>December 2015</date>
+>       <rating>8</rating>
+    </film>
+    <film>
+		<title>Pan</title>
+		<genre>Adventure</genre>
+		<date>October 2015</date>
+>       <rating>6</rating>
+    </film>
+    <film>
+		<title>Teminator Genisys</title>
+		<genre>Science Fiction</genre>
+		<date>June 2015</date>
+>       <rating>4</rating>
+    </film>
+    <film>
+		<title>Minnions</title>
+		<genre>Comedy</genre>
+		<date>June 2015</date>
+>       <rating>8.5</rating>
+    </film>
+    <film>
+		<title>Mortdecai</title>
+		<genre>Comedy</genre>
+		<date>January 2015</date>
+>       <rating>5.5</rating>
+    </film>
+    <film>
+		<title>The Wedding Ringer</title>
+		<genre>Comedy</genre>
+		<date>January 2015</date>
+>       <rating>6</rating>
+    </film>
+    <film>
+		<title>The Walk</title>
+		<genre>Drama(Bio)</genre>
+		<date>September 2015</date>
+        <rating>9</rating>
+    </film>
+
+</movies>
