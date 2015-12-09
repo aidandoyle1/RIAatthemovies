@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-
+<!-- link to connect the rss to twitter feed-->
 <channel>
-  <title>W3Schools Home Page</title>
+  <title>Vue</title>
   <link>http://www.twitter.com</link>
-  <description>Web development</description>
+  <description>link to twiter</description>
   <item>
     <title>New 1</title>
-    <link>http://www.twitter.com/ncirl.com</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <link>https://twitter.com/vuecinemas.com</link>
+    <description>Link to view the cinema twitter page about films</description>
   </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>http://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
-  </item>
+
 </channel>
 
 </rss>

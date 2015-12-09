@@ -13,7 +13,7 @@
   $r = $doc->createElement( "contact_form" ); 
   $doc->appendChild( $r );
 
- // this is to make sure the old list stays
+ // this is to make sure the old list stays in place
   $olddoc = new DOMDocument(); 
   $olddoc->load( "contact_form.xml" );
      
@@ -22,6 +22,7 @@
     foreach( $contacts as $contact ) 
     { 
       
+      /*Naming where all the elements and values will be places*/
       $b = $doc->createElement( "contact" );
       
       $names = $contact->getElementsByTagName( "name" ); 
@@ -99,7 +100,7 @@
    
   $r->appendChild( $b ); 
   
-   
+   /* javascript to alets the user that the view has been done*/
   $doc->save("contact_form.xml");
   include "contact.html";
   echo "<script>alert('Thank you for your review')</script>";
