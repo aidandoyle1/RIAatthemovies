@@ -4,20 +4,19 @@
 <xsl:template match="/movies">
   <html>
   <body>
-  <h2>Reviewed Movies</h2>
-    <table border="1" style="width 100%">
-      <tr bgcolor="#00FF00">
   <h2>Next Review</h2>
-    <table border="1"style="width 100%">
-      <tr  bgcolor="#FF0000">
+    <table border="1">
+      <tr>
         <th>Title</th>
         <th>Genre</th>
+        <th>Date</th>
         <th>Rating</th>
      </tr>
       <xsl:for-each select="film">
       <tr>
         <td><xsl:value-of select="title"/></td>
         <td><xsl:value-of select="genre"/></td>
+        <td><xsl:value-of select="date"/></td>
         <td><xsl:value-of select="rating"/></td>
       </tr>
       </xsl:for-each>
@@ -26,4 +25,6 @@
   </html>
 </xsl:template>
 </xsl:stylesheet>
+
+
 

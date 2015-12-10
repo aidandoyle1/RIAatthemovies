@@ -1,7 +1,19 @@
-contact.xml
 <?xml version="1.0"?>
-<contact>
-    
-    
-    
-</contact>
+<contact_form>
+  <contact>
+    <name></name>
+    <email></email>
+    <movie></movie>
+  </contact>
+  <contact>
+    <name></name>
+    <email></email>
+    <movie></movie>
+  </contact>
+  <contact>
+    <name></name>
+    <email></email>
+    <movie></movie>
+    <review></review>
+  </contact>
+</contact_form>

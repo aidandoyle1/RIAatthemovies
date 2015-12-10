@@ -1,5 +1,3 @@
-<!-- this is used for as a database code done by aidandoyle1-->
-
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="movies.xsl" type="text/xsl"?>
 <movies>
@@ -61,43 +59,43 @@
 		<title>Straight Outta Compton</title>
 		<genre>Drama(Bio)</genre>
 		<date>August 2015</date>
->       <rating>9.5</rating>
+       <rating>9.5</rating>
     </film>
     <film>
 		<title>The Revenant</title>
 		<genre>Adventure</genre>
 		<date>December 2015</date>
->       <rating>8</rating>
+       <rating>8</rating>
     </film>
     <film>
 		<title>Pan</title>
 		<genre>Adventure</genre>
 		<date>October 2015</date>
->       <rating>6</rating>
+       <rating>6</rating>
     </film>
     <film>
 		<title>Teminator Genisys</title>
 		<genre>Science Fiction</genre>
 		<date>June 2015</date>
->       <rating>4</rating>
+       <rating>4</rating>
     </film>
     <film>
 		<title>Minnions</title>
 		<genre>Comedy</genre>
 		<date>June 2015</date>
->       <rating>8.5</rating>
+       <rating>8.5</rating>
     </film>
     <film>
 		<title>Mortdecai</title>
 		<genre>Comedy</genre>
 		<date>January 2015</date>
->       <rating>5.5</rating>
+       <rating>5.5</rating>
     </film>
     <film>
 		<title>The Wedding Ringer</title>
 		<genre>Comedy</genre>
 		<date>January 2015</date>
->       <rating>6</rating>
+       <rating>6</rating>
     </film>
     <film>
 		<title>The Walk</title>
